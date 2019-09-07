@@ -1,5 +1,5 @@
 
-[English Docs](README.md)  |  [中文文档](doc/zh/README.md)
+[English Docs](README.md)  |  [中文文档](docs/zh/README.md)
 
 
 # Google Engineering Practices Documentation
