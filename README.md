@@ -1,3 +1,7 @@
+
+[English Docs](README.md)  |  [中文文档](doc/zh/README.md)
+
+
 # Google Engineering Practices Documentation
 
 Google has many generalized engineering practices that cover all languages and
