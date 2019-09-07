@@ -2,7 +2,7 @@
 
 本节中的页面包含开发人员进行代码审查的最佳实践。这些指南可帮助你更快地完成审核并获得更高质量的结果。你不必全部阅读它们，但它们旨在适用于每个Google开发人员，并且许多人发现阅读整套设备很有帮助。
 
--   [写出良好的CL描述](cl-descriptions.md)
+-   [书写良好的CL描述](cl-descriptions.md)
 -   [小 CLs](small-cls.md)
 -   [如何处理审查者的评论](handling-comments.md)
 
